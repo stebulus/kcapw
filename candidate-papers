@@ -1,0 +1,38 @@
+Philip Wadler
+Propositions as Types
+http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf
+
+Lamport
+Time clocks
+http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf
+
+Backus
+Can programming be lifted out of the von neumann style?
+http://web.stanford.edu/class/cs242/readings/backus.pdf
+
+A note on distributed computing
+http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf
+
+Consistency Analysis in Bloom: A CALM and Connected Approach:
+http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf
+
+Out of the Tarpit
+http://shaffner.us/cs/papers/tarpit.pdf
+(introduces the terms *accidental* and *essential* complexity)
+
+Totality versus Turing-Completeness?
+Conor McBride
+https://personal.cis.strth.ac.uk/conor.mcbride/pub/Totality.pdf
+
+Generic Top-down Discrimination for Sorting and Partitioning in Linear Time
+Fritz Henglein
+http://www.diku.dk/hjemmesider/ansatte/henglein/papers/henglein2011a.pdf
+
+Bibliography of Eve
+Chris Granger
+https://github.com/witheve/Eve/blob/dev/design/bibliography.md
+(many papers referenced)
+
+Algebraic Topology and Distributed Computing: A Primer
+Maurice Herlihy and Sergio Rajsbaum
+http://cs.brown.edu/~mph/HerlihyR96/sv.pdf
